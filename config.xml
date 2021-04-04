@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "com.topapp.atacadaodobras"
+        id          = "com.topapp.atacadaodobrasf"
         versionCode = "10"
         version     = "1.0.0">
 
-    <name>Baratão do Bras</name>
+    <name>TestFF</name>
 
     <description>
         Baratão do Brás oferece duas lojas em Campinas-SP. Tudo para decorar sua casa, e temos também, Sintéticos, Aviamentos, Materiais para Bolsas e muito mais.
